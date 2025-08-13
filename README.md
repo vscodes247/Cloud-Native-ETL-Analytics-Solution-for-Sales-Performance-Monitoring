@@ -20,4 +20,4 @@ A cloud-native **ETL pipeline** built with **Python**, **ANSI SQL**, and **AWS**
 - **Streamlit**
 - **Docker**
 
-## 📂 Project Structure
+
